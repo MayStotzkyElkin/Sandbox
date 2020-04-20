@@ -1,4 +1,3 @@
-# Sandbox
-Just another repository
+# Calculator
 
-Contains a JS library I created to calculate basic math.
+Contains a my JS library ment to work with HTML Calculator, with an example I created.
